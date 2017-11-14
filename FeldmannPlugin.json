@@ -1,0 +1,330 @@
+{
+  "airdrop": {
+    "itens": {
+      "entries": [
+        {
+          "itens": [
+            {
+              "item": "bed",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        },
+        {
+          "itens": [
+            {
+              "item": "shotgun.waterpipe",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            },
+            {
+              "item": "ammo.shotgun.slug",
+              "maxAmount": 6,
+              "maxDurability": 1.0,
+              "minAmount": 2,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        }
+      ]
+    },
+    "maxscrap": 2,
+    "minscrap": 1
+  },
+  "barril": {
+    "itens": {
+      "entries": [
+        {
+          "itens": [
+            {
+              "item": "bed",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        },
+        {
+          "itens": [
+            {
+              "item": "shotgun.waterpipe",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            },
+            {
+              "item": "ammo.shotgun.slug",
+              "maxAmount": 6,
+              "maxDurability": 1.0,
+              "minAmount": 2,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        }
+      ]
+    },
+    "maxscrap": 2,
+    "minscrap": 1
+  },
+  "barrilpetroleo": {
+    "itens": {
+      "entries": [
+        {
+          "itens": [
+            {
+              "item": "bed",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        },
+        {
+          "itens": [
+            {
+              "item": "shotgun.waterpipe",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            },
+            {
+              "item": "ammo.shotgun.slug",
+              "maxAmount": 6,
+              "maxDurability": 1.0,
+              "minAmount": 2,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        }
+      ]
+    },
+    "maxscrap": 2,
+    "minscrap": 1
+  },
+  "caixa": {
+    "itens": {
+      "entries": [
+        {
+          "itens": [
+            {
+              "item": "bed",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        },
+        {
+          "itens": [
+            {
+              "item": "shotgun.waterpipe",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            },
+            {
+              "item": "ammo.shotgun.slug",
+              "maxAmount": 6,
+              "maxDurability": 1.0,
+              "minAmount": 2,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        }
+      ]
+    },
+    "maxscrap": 2,
+    "minscrap": 1
+  },
+  "comida": {
+    "itens": {
+      "entries": [
+        {
+          "itens": [
+            {
+              "item": "bed",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        },
+        {
+          "itens": [
+            {
+              "item": "shotgun.waterpipe",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            },
+            {
+              "item": "ammo.shotgun.slug",
+              "maxAmount": 6,
+              "maxDurability": 1.0,
+              "minAmount": 2,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        }
+      ]
+    },
+    "maxscrap": 2,
+    "minscrap": 1
+  },
+  "elite": {
+    "itens": {
+      "entries": [
+        {
+          "itens": [
+            {
+              "item": "bed",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        },
+        {
+          "itens": [
+            {
+              "item": "shotgun.waterpipe",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            },
+            {
+              "item": "ammo.shotgun.slug",
+              "maxAmount": 6,
+              "maxDurability": 1.0,
+              "minAmount": 2,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        }
+      ]
+    },
+    "maxscrap": 2,
+    "minscrap": 1
+  },
+  "military": {
+    "itens": {
+      "entries": [
+        {
+          "itens": [
+            {
+              "item": "bed",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        },
+        {
+          "itens": [
+            {
+              "item": "shotgun.waterpipe",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            },
+            {
+              "item": "ammo.shotgun.slug",
+              "maxAmount": 6,
+              "maxDurability": 1.0,
+              "minAmount": 2,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        }
+      ]
+    },
+    "maxscrap": 2,
+    "minscrap": 1
+  },
+  "roxa": {
+    "itens": {
+      "entries": [
+        {
+          "itens": [
+            {
+              "item": "bed",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        },
+        {
+          "itens": [
+            {
+              "item": "shotgun.waterpipe",
+              "maxAmount": 1,
+              "maxDurability": 1.0,
+              "minAmount": 1,
+              "minDurability": 1.0
+            },
+            {
+              "item": "ammo.shotgun.slug",
+              "maxAmount": 6,
+              "maxDurability": 1.0,
+              "minAmount": 2,
+              "minDurability": 1.0
+            }
+          ],
+          "peso": 10,
+          "random": false
+        }
+      ]
+    },
+    "maxscrap": 2,
+    "minscrap": 1
+  }
+}
